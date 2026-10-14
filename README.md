@@ -36,6 +36,11 @@ After that, Divvy keeps itself up to date. When a new version comes out here, a 
 - **Ring or Timeline.** Watch your progress as a ring or a straight line, in light or dark.
 - **Keeps going in the background.** The timer carries on with the screen off or the app closed, and the notification shows where you are.
 
+<p align="center">
+  <img src="screenshots/paused-tile.png" width="200" alt="A session kept for later, with a pause sign and the time left on its tile">
+  <img src="screenshots/settings-sheet.png" width="200" alt="Sound, voice and display settings over the timer, in dark mode">
+</p>
+
 ## Your data
 
 There's no account, no ads and no tracking. Your sessions stay on your phone. The only time Divvy goes online is to check this page for a new version, and you can turn that off.
